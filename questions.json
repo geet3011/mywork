@@ -1,0 +1,59 @@
+[
+    {
+        "question": "When is independent day celebrated?",
+        "choice1" : "26th January",
+        "choice2" : "30th March",
+        "choice3" : "16th August",
+        "choice4" : "15th August",
+        "answer" : 4
+    },
+    {
+        "question": "Which poem book is written by Rabindra Nath Tagore?",
+        "choice1" : "Geetanjali",
+        "choice2" : "Think Straight",
+        "choice3" : "Secret",
+        "choice4" : "2 States",
+        "answer": 1
+    },
+    {
+        "question": "Who was the nightingale of india?",
+        "choice1" : "PT Usha",
+        "choice2" : "Sarojini Naidu",
+        "choice3" : "Deepika Padukone",
+        "choice4" : "Indira Gandhi",
+        "answer": 2
+    },
+    {
+        "question": "What is the fullform of PD?",
+        "choice1" : "Pen Drive",
+        "choice2" : "Post Drive",
+        "choice3" : "Pencil Drive",
+        "choice4" : "Permanent Drive",
+        "answer": 1
+    },
+    {
+        "question": "Who is the current PM of India?",
+        "choice1" : "Sameer Modi",
+        "choice2" : "AK Modi",
+        "choice3" : "Narendra Modi",
+        "choice4" : "Vijay Modi",
+        "answer": 3
+    },
+    {
+        
+        "question": "What is the curreny of Nepal?",
+        "choice1" : "Pound",
+        "choice2" : "Dinar",
+        "choice3" : "Nepalese Rupee",
+        "choice4": "Yuan",
+        "answer": 3
+    },
+    {
+        "question": "When was Gandhi born?",
+        "choice1" : "3rd October",
+        "choice2" : "2nd October",
+        "choice3" : "4th October",
+        "choice4" : "5th October",
+        "answer": 2
+    }
+]
